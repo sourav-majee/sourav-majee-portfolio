@@ -253,11 +253,4 @@
 
     });
 
-  /**
-   * GLightbox
-   */
-  GLightbox({
-    selector: '.glightbox'
-  });
-
 })();
